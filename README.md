@@ -24,3 +24,14 @@ Analyse customer behaviour and segment customers based on value to improve reten
 - Enables targeted marketing campaigns
 - Improves customer retention strategies
 - Helps increase customer lifetime value
+## Visual Insights
+
+### Loyalty Analysis
+loyalty Analysis.png
+
+Non-members and Bronze customers generate the highest number of transactions, indicating high engagement but potential for conversion into higher-value segments.
+
+### Customer Segmentation (RFM)
+RFM segments.png
+
+Mid-value customers form the largest segment, highlighting an opportunity to target and convert them into high-value customers through personalised strategies.
